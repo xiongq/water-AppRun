@@ -1,8 +1,8 @@
 # water-AppRun
 ## 小窗口水印  
-### v2.1
-### qt
-### xiongq
+##### version: v2.1
+##### code: qt
+##### author: xiongq
 
 ##linux 打包发布，教程来源于https://blog.csdn.net/u014746574/article/details/79288727
 
