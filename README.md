@@ -4,9 +4,10 @@
 ##### code: qt
 ##### author: xiongq
 
-##linux 打包发布，教程来源于https://blog.csdn.net/u014746574/article/details/79288727
+#### 1.linux 打包发布
+> 教程来源于 https://blog.csdn.net/u014746574/article/details/79288727
 
-#### 有可能依赖不完整
+#### 2.有可能依赖不完整
 
 > 虽然linuxdepoyqt可以帮我们解决多数情况下库的依赖问题，但是也有的时候不能完整解决。这个时候就需要我们自己复制所依赖的库。
 提供一个脚本，复制依赖库，复制以下代码，将其保存成为 copylib.sh
