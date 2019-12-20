@@ -1,6 +1,6 @@
 # water-AppRun
 ## 小窗口水印  
-##### version: v2.1
+##### version: v2.12
 ##### code: qt
 ##### author: xiongq
 
